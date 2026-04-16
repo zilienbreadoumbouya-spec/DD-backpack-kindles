@@ -1,0 +1,5 @@
+raid_inventory_panel_background:		.imagePath "panels/panel_inventory.png"	.pos -240 30
+wave_inventory_panel_background:		.imagePath "panels/panel_inventory_wave.png" .pos -240 30
+raid_inventory_panel_grid_layout:		.number_of_columns 17
+										.start_pos -5 2		.offset 68 146
+										.is_centred 0

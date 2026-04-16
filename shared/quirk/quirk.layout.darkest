@@ -1,0 +1,10 @@
+quirk_layout:
+	.text_pos 0 -5
+	.hot_spot_pos 0 -5
+	.hot_spot_size 200 24
+
+quirk_tooltip_layout:
+	.offset	0 30
+
+quirk_pulse_layout:
+	.text_colour_pulse_time	1.0

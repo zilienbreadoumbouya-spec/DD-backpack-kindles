@@ -1,0 +1,36 @@
+{
+    "version": 34,
+    "data": 
+    {
+        "wallet": {
+            "0": {
+                "amount": 15000,
+                "type": "gold"
+            },
+            "1": {
+                "amount": 60,
+                "type": "bust"
+            },
+            "2": {
+                "amount": 60,
+                "type": "portrait"
+            },
+            "3": {
+                "amount": 60,
+                "type": "deed"
+            },
+            "4": {
+                "amount": 60,
+                "type": "crest"
+            }
+        },
+        "trinkets": 
+        {
+            "system_config_type": "trinket_storage",
+            "items": 
+            {
+
+            }
+        }
+    }
+}

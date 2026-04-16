@@ -1,0 +1,20 @@
+{
+    "negStress0Success": 0.0,
+    "negStress100Success": 0.25,
+    "posStress0Success": 0.75,
+    "posStress100Success": 0.50,
+    "negStress0Failure": 0.25,
+    "negStress100Failure": 0.50,
+    "posStress0Failure": 0.50,
+    "posStress100Failure": 0.25,
+    "m_MaxForwardSpeed": 600.0,
+    "m_MaxReverseSpeed": 350.0,
+    "time_scale_combat": 2.0,
+    "new_game_plus_week_limit": 9999,
+    "new_game_plus_hero_death_limit": 16,
+    "quirks_max_positive": 7,
+    "quirks_max_negative": 7,
+    "quirks_max_diseases": 3,
+    "quirks_max_locked_positive": 7,
+    "quirks_max_locked_negative": 7
+}
